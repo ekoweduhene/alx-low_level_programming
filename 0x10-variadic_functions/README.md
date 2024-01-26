@@ -1,1 +1,1 @@
-my vardic sol
+my my varadic functions
